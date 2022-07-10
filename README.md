@@ -1,28 +1,56 @@
-# cJqMDPUM
+# Frontend Mentor - Time tracking dashboard solution
 
-Quick start:
+This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## Table of contents
 
-## Development
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+## Overview
 
-```
-$ yarn watch # npm run watch
-```
+### The challenge
 
-## About Scrimba
+Users should be able to:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Switch between viewing Daily, Weekly, and Monthly stats
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Happy Coding!
+### Links
+
+- Solution URL: [https://scrimba.com/scrim/cJqMDPUM]
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
+
+### Continued development
+
+All thats remaining is to be able to toggle the info the days i want to see.
+
+
+
+## Author
+
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@percy-san](https://www.frontendmentor.io/profile/percy-san)
+
+
