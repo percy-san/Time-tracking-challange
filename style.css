@@ -1,0 +1,108 @@
+body { 
+    font-family: 'Rubik', sans-serif;
+    background-color: hsl(226, 43%, 10%);
+    
+}
+*{
+    box-sizing: border-box; 
+}
+
+.tracking-component{
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    display: grid;
+    grid-template-columns: 0.4fr 1fr;
+    grid-gap: 30px;
+    width: 50rem;
+}
+
+/*USER COMPONENT CSS*/
+.user{
+    border-radius: 10px;
+    background-color: hsl(235, 46%, 20%);
+    
+}
+
+.user .info{
+
+    padding: 20px;
+    border-radius: 10px;
+    background-color:  hsl(246, 80%, 60%);
+    color: white;
+}
+
+.user img{
+    width: 60px;
+    border: 1px solid white;
+    border-width: 2px;
+    border-radius: 60px;
+    margin-bottom: 1rem;
+}  
+.info p{
+    font-size: 15px;
+    font-weight: 300;  
+}
+.info h1{
+    font-weight: 400;
+    margin-top:-9px;
+}
+
+.interval{
+    padding: 20px;
+    font-weight: 300; 
+    display: grid;
+}
+.interval a{
+    line-height: 2rem;
+    color:hsl(236, 100%, 87%);
+    text-decoration: none;
+    transition: 0.2s ease-in-out
+}
+
+.interval a:hover{
+    color: white;
+    font-weight: 400; 
+}
+                                                                                                    /*ACTIVITIES CSS*/                                                                                  
+.act-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 20px;
+}   
+.act-box{
+    position: relative;
+    border-radius: 10px;
+}  
+.act-box img{
+    position: absolute;
+    right: 20px;
+    height: 50px;
+    z-index: -1;
+}
+
+.act{
+    background-color:hsl(235, 46%, 20%); 
+    border-radius: 10px;
+    margin-top:35px; 
+    padding: 10px;
+    color: white; 
+    width: 100%;   
+}
+.act .title{
+    font-size: 18px;
+    font-weight: 400;
+}  
+.timeframes{
+    line-height: 15px;
+}
+.current-time{
+    font-weight: 400;
+    font-size: 50px; 
+}      
+.previous-time{
+    font-weight: 300;
+    font-size: 12px;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
